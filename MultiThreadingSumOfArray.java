@@ -1,4 +1,3 @@
-
 public class MultiThreadingSumOfArray {
 
     public static void main(String[] args) {
